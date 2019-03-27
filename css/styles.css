@@ -80,6 +80,7 @@ p {color: #8F8F8f;}
 /* Meet Natalie */
 #Meet-Natalie {background-color: #e3e3e3; text-align: center; padding: 7% 15%; font-family: Montserrat-light;}
 .intro-natalie {border-radius: 3%; padding-bottom: 3%;}
+.Natmain {max-width:100%;}
 /* Contact Page */
 .contactpage {background-color: #AAAAAA; color: white; padding-left: 15%; padding-right: 15%; position: relative;}
 .contactpic {border-radius: 5%; padding-bottom: 0; padding-top: 0; margin-right: 10%; max-width: 100%;}
