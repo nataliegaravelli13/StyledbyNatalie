@@ -12,7 +12,7 @@ h2 {font-family: "Montserrat-bold";
     font-size: 3rem;
     line-height: 1.5;}
 
-.container-fluid {padding: 0; margin:0;}
+
 
 body {font-family: "montserrat";}
 
@@ -29,7 +29,7 @@ body {font-family: "montserrat";}
 
 
 /* image */
-.closet-img {position: relative; width:100%; padding: 0; right: 0px;}
+.closet-img {position: relative; width:100%; padding: 0;}
 .icon {color:red; text-align: center;}
 .icon:hover {color:#ff4c68;}
 
