@@ -29,7 +29,7 @@ body {font-family: "montserrat";}
 
 
 /* image */
-.closet-img {position: absolute; width:100%; padding: 0; right: 0;}
+.closet-img {position: absolute; width:100%; padding: 0; left: 0;}
 .icon {color:red; text-align: center;}
 .icon:hover {color:#ff4c68;}
 
