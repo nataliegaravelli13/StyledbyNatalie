@@ -34,7 +34,7 @@ body {font-family: "montserrat";}
 @media screen and (max-width: 900px) {
     .closet-img {display: block;}}
 @media screen and (max-width: 900px) {.row {display:block;}}
-    
+@media screen and (max-wdith: 900px) {#title {display:block;}}   
 .icon {color:red; text-align: center;}
 .icon:hover {color:#ff4c68;}
 
