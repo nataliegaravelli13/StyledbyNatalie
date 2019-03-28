@@ -32,7 +32,7 @@ body {font-family: "montserrat";}
 .closet-img {position: relative; width:100%; padding: 0;}
 
 @media screen and (max-width: 900px) {
-    .closet-img {display: block;}}
+    .closet-img {.col-12 {width: 100%;}}
 @media screen and (max-width: 900px) {.row {display:block;}}
 @media screen and (max-wdith: 900px) {#title {display:block;}}   
 .icon {color:red; text-align: center;}
