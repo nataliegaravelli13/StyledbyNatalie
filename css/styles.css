@@ -31,9 +31,9 @@ body {font-family: "montserrat";}
 /* image */
 .closet-img {position: relative; width:100%; padding: 0;}
 
-@media (max-width: 900px) {
+@media screen and (max-width: 900px) {
     .closet-img {display: block;}}
-@media (max-width: 900px) {.row {display:block;}}
+@media screen and (max-width: 900px) {.row {display:block;}}
     
 .icon {color:red; text-align: center;}
 .icon:hover {color:#ff4c68;}
