@@ -29,7 +29,7 @@ body {font-family: "montserrat"; margin:0;padding:0;}
 
 .row {position: relative;}
 /* image */
-.closet-img {position: absolute; width:100%; padding: 0;}
+.closet-img {position: relative; width:100%; padding: 0;}
 
 @media screen and (max-width: 900px) {
     .closet-img {.col-12 {width: 100%;}}
