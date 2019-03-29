@@ -29,7 +29,7 @@ body {font-family: "montserrat";}
 .top {display: inline-block;}
 .row {display: inline-block; padding: 0;}
 /* image */
-.closet-img {position: relative; width:100%; padding: 0;}
+.closet-img {position: relative; width:100%; padding: 0; display: inline-block;}
 
   
 .icon {color:red; text-align: center;}
