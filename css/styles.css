@@ -26,7 +26,7 @@ body {font-family: "montserrat";}
 .nav-link {font-size: 1.5rem; font-family: "Montserrat-light"; font-weight: 1000;}
 
 .Natalietitle {font-family: "Ubuntu"; font-size: 3rem; font-weight: bold; padding-top: 15%; padding-left: 20%;}
-
+.top {display: inline-block;}
 .row {display: inline-block; padding: 0;}
 /* image */
 .closet-img {position: relative; width:100%; padding: 0;}
