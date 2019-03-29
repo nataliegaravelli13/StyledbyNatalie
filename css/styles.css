@@ -12,7 +12,7 @@ h2 {font-family: "Montserrat-bold";
     font-size: 3rem;
     line-height: 1.5;}
 
-
+.container-fluid {padding: 0;}
 
 body {font-family: "montserrat";}
 
@@ -26,17 +26,16 @@ body {font-family: "montserrat";}
 .nav-link {font-size: 1.5rem; font-family: "Montserrat-light"; font-weight: 1000;}
 
 .Natalietitle {font-family: "Ubuntu"; font-size: 3rem; font-weight: bold; padding-top: 15%; padding-left: 20%;}
+
+
 /* image */
 .closet-img {position: relative;}
 
-  
 .icon {color:red; text-align: center;}
 .icon:hover {color:#ff4c68;}
 
 h3 {font-weight: bold;}
 .bio {line-height: 1em; font-weight: normal;}
-
-.intro-Natalie {max-width: 100%; width:auto;}
 
 p {color: #8F8F8f;}
 
@@ -81,7 +80,6 @@ p {color: #8F8F8f;}
 /* Meet Natalie */
 #Meet-Natalie {background-color: #e3e3e3; text-align: center; padding: 7% 15%; font-family: Montserrat-light;}
 .intro-natalie {border-radius: 3%; padding-bottom: 3%;}
-.Natmain {max-width:100%;}
 /* Contact Page */
 .contactpage {background-color: #AAAAAA; color: white; padding-left: 15%; padding-right: 15%; position: relative;}
 .contactpic {border-radius: 5%; padding-bottom: 0; padding-top: 0; margin-right: 10%; max-width: 100%;}
