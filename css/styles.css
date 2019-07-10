@@ -118,8 +118,6 @@ img.bg {min-height: 100%;
     .cta-heading {font-size:95%;}
     .card {padding: 5%;}}
 
-@media screen and (max-width: 560px)
-
 
   /**** Contact Page ****/
 .contactpage {background-color: #AAAAAA; color: white; padding-left: 15%; padding-right: 15%; position: relative;}
