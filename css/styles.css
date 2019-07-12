@@ -73,7 +73,7 @@ img.bg {min-height: 100%;
 /* images */
   /*NOT BEING USED, PHOTOSHOP IMAGE INSTEAD .closet-img {position: relative;} */
 .Natalie-branding-img {max-width: 100%; height: auto; transform: scale(.8); position: relative; z-index: 1;}
-.NatLogo2 {z-index: 2; position: absolute; top: 35%; left: 15%; animation-name: fadeBounce2; animation-duration: 1.2s; transition: linear;}
+.NatLogo2 {z-index: 2; position: absolute; top: 35%; left: 15%; animation-name: fadeBounce2; animation-duration: 1.2s; transition: linear; width: 25%; height: auto;}
 .Alishatestimonial-image {float: right; border-radius: 10px;}
 .Sanyikatestimonial-image {margin-left: auto; margin-right: auto; max-width: 100%; height: auto; border-radius: 25px;}
 .Italy {float: right; margin-left: 2%; border-radius: 10px;}
@@ -114,7 +114,7 @@ img.bg {min-height: 100%;
 
 /*Media Quieries*/
 @media screen and (max-width: 760px){
-  .bio {font-size:95%;}
+  .bio {font-size: 95%;}
     .cta-heading {font-size:95%;}
     .card {padding: 5%;}
 } 
