@@ -113,11 +113,11 @@ img.bg {min-height: 100%;
 #footer {padding: 7% 15%; text-align: center; position: relative;}
 
 /*Media Quieries*/
-@media screen and (max-width: 760px)
+@media screen and (max-width: 760px){
   .bio {font-size:95%;}
     .cta-heading {font-size:95%;}
     .card {padding: 5%;}
-      
+} 
 
 
   /**** Contact Page ****/
