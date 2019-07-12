@@ -94,7 +94,7 @@ img.bg {min-height: 100%;
 .suitcase:hover {transform: rotate(360deg);}
 /* Meet Natalie */
 #Meet-Natalie {background-color: #e3e3e3; text-align: center; padding: 7% 10%; font-family: Montserrat-light; position: relative;}
-.intro-natalie {border-radius: 3%; box-shadow: 15px 15px 0px rgba(0,0,0,.6);}
+.intro-natalie {border-radius: 3%; box-shadow: 15px 15px 0px rgba(0,0,0,.6); max-width: 100%;}
 
 /* **Testimonials** */
 .testimonialtext {font-family: Montserrat-light; font-size: 2rem; display: inline-block;}
