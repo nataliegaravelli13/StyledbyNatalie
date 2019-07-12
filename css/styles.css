@@ -114,10 +114,10 @@ img.bg {min-height: 100%;
 
 /*Media Quieries*/
 @media screen and (max-width: 760px)
-  {.bio {font-size:95%;}
+  .bio {font-size:95%;}
     .cta-heading {font-size:95%;}
     .card {padding: 5%;}
-      .NatLogo2 {position: static;}}
+      .NatLogo2 {position: static;}
 
 
   /**** Contact Page ****/
